@@ -1,0 +1,13 @@
+{
+  "data_storage": {
+    "distance_pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed": 1457922699641951407,
+    "spawn_chunk_radius": 2
+  },
+  "block_entities": {},
+  "shapes": {}
+}
