@@ -14,16 +14,6 @@
 这款整合包可能存在一些错误,请将错误上传至issues
 https://github.com/MEngYangX/redstone-optimization/issues
 
-## 其他来源模组
-### 以下模组来自CurseForge,已包含在模组包中，无需下载
-- litematica [https://www.curseforge.com/minecraft/mc-mods/litematica](https://www.curseforge.com/minecraft/mc-mods/litematica)
-
-- minihud [https://www.curseforge.com/minecraft/mc-mods/minihud](https://www.curseforge.com/minecraft/mc-mods/minihud)
-
-- tweakeroo [https://www.curseforge.com/minecraft/mc-mods/tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo)
-
-- worldedit [https://www.curseforge.com/minecraft/mc-mods/worldedit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
-
 <details>
     <summary>English</summary>
     <h2>A Fabric based Minecraft modpack that includes most commonly used mods</h2>
