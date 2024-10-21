@@ -18,13 +18,28 @@
         ],
         "fletcher": [],
         "leatherworker": [],
-        "librarian": [],
+        "librarian": [
+            {
+                "resultItem": "minecraft:bookshelf",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
         "mason": [],
         "shepherd": [],
         "toolsmith": [],
         "weaponsmith": [],
         "nitwit": [],
         "none": []
+    },
+    "localBookmarks": {
+        "bb84cbaf-a0db-4a13-b5c1-8b52f71f093b": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:mending\":1}}}}"
+            }
+        ]
     },
     "globalBookmarks1": {
         "armorer": [],

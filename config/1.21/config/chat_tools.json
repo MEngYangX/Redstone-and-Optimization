@@ -9,23 +9,23 @@
   "general.RestoreMessages.SplitLineEnabled": true,
   "general.NickHider.Enabled": false,
   "general.NickHider.Nickname": "\u00266You\u0026r",
-  "general.NickHider.CacheSize": 200.0,
+  "general.NickHider.CacheSize": 200,
   "general.ChatCompactor.Enabled": false,
   "general.ChatCompactor.UseStrict": false,
-  "general.ChatCompactor.MaxOccurrence": 100.0,
+  "general.ChatCompactor.MaxOccurrence": 100,
   "general.ChatHistoryNavigator.Enabled": true,
   "general.PreviewClickEvents.Enabled": false,
-  "general.Translator.Enabled": false,
+  "general.Translator.Enabled": true,
   "general.Translator.API": "",
   "general.Translator.PostInstead": false,
-  "general.MaxHistoryLength": 500.0,
+  "general.MaxHistoryLength": 500,
   "general.IncreaseChatFieldMaxLength": false,
   "notifier.Toast.Enabled": false,
   "notifier.Toast.Mode": "ADDON",
   "notifier.Sound.Enabled": true,
   "notifier.Sound.Type": "block.note_block.bit",
-  "notifier.Sound.Volume": 80.0,
-  "notifier.Sound.Pitch": 10.0,
+  "notifier.Sound.Volume": 80,
+  "notifier.Sound.Pitch": 10,
   "notifier.Actionbar.Enabled": true,
   "notifier.Highlight.Enabled": true,
   "notifier.Highlight.Prefix": "\u00266[!]\u0026r ",
@@ -45,8 +45,8 @@
   "chatkeybindings.Macro.Enabled": true,
   "chatkeybindings.Macro.List": [],
   "bubble.Enabled": false,
-  "bubble.Lifetime": 8.0,
-  "bubble.YOffset": 3.0,
+  "bubble.Lifetime": 8,
+  "bubble.YOffset": 3,
   "bubble.List": [
     {
       "address": ".*\\.hypixel\\.net",
@@ -66,7 +66,7 @@
       "address": "*",
       "pattern": "Repeat my words:(?\u003cword\u003e.*)",
       "message": "You said {word}.",
-      "delayInMilliseconds": 50.0,
+      "delayInMilliseconds": 50,
       "forceDisableFormatter": false
     }
   ],
@@ -80,7 +80,7 @@
     {
       "address": "*",
       "message": "/login xxx",
-      "delayInMilliseconds": 1000.0,
+      "delayInMilliseconds": 1000,
       "forceDisableFormatter": false
     }
   ]

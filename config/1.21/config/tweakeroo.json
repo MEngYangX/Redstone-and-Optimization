@@ -448,7 +448,7 @@
       }
     },
     "disableNauseaEffect": {
-      "enabled": true,
+      "enabled": false,
       "hotkey": {
         "keys": ""
       }
@@ -514,7 +514,7 @@
       }
     },
     "disableShulkerBoxTooltip": {
-      "enabled": false,
+      "enabled": true,
       "hotkey": {
         "keys": ""
       }
@@ -721,7 +721,7 @@
     "tweakAccurateBlockPlacement": false,
     "tweakAfterClicker": false,
     "tweakAimLock": false,
-    "tweakAngelBlock": false,
+    "tweakAngelBlock": true,
     "tweakAutoSwitchElytra": false,
     "§6tweakBlockReachOverride§r": false,
     "tweakBlockTypeBreakRestriction": false,
@@ -730,7 +730,7 @@
     "tweakChatBackgroundColor": false,
     "tweakChatPersistentText": false,
     "tweakChatTimestamp": false,
-    "tweakCommandBlockExtraFields": true,
+    "tweakCommandBlockExtraFields": false,
     "tweakCustomFlyDeceleration": false,
     "tweakCustomInventoryScreenScale": false,
     "tweakElytraCamera": false,
@@ -748,7 +748,7 @@
     "tweakFlySpeed": false,
     "tweakFlexibleBlockPlacement": false,
     "tweakFreeCamera": false,
-    "tweakGammaOverride": false,
+    "tweakGammaOverride": true,
     "tweakHandRestock": false,
     "tweakHangableEntityBypass": false,
     "tweakHoldAttack": false,
@@ -757,7 +757,7 @@
     "tweakHotbarSlotCycle": false,
     "tweakHotbarSlotRandomizer": false,
     "tweakHotbarSwap": false,
-    "§6tweakInventoryPreview§r": true,
+    "§6tweakInventoryPreview§r": false,
     "tweakItemUnstackingProtection": true,
     "tweakLavaVisibility": true,
     "tweakMapPreview": false,
@@ -773,7 +773,7 @@
     "tweakPlacementRestriction": false,
     "tweakPlacementRestrictionFirst": false,
     "tweakPlacementRestrictionHand": false,
-    "tweakPlayerInventoryPeek": true,
+    "tweakPlayerInventoryPeek": false,
     "tweakPotionWarning": false,
     "tweakPrintDeathCoordinates": false,
     "tweakPickBeforePlace": false,
@@ -784,7 +784,7 @@
     "tweakRepairMode": false,
     "§6tweakSculkPulseLength§r": false,
     "tweakServerDataSync": false,
-    "tweakShulkerBoxDisplay": true,
+    "tweakShulkerBoxDisplay": false,
     "tweakSignCopy": false,
     "tweakSnapAim": false,
     "tweakSnapAimLock": false,

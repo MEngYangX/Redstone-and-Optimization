@@ -1,10 +1,13 @@
 {
   "ignoredFiles": [],
+  "ignoredFolders": [],
   "lang": "zh_cn",
   "scheduleBackup": false,
   "scheduleCron": "* * 0/4 * * ?",
   "scheduleInterval": 14400,
   "scheduleMode": "interval",
+  "maxScheduleBackup": 0,
+  "autoRestartMode": "DEFAULT",
   "useInternalDataBase": true,
   "mongoDBUri": "mongodb://localhost:27017",
   "storagePath": "QuickBackupMulti"

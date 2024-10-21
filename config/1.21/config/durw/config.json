@@ -1,0 +1,5 @@
+{
+    "checkUpdatesOnBoot": true,
+    "downloadMode": "PARALLEL",
+    "fileAction": "ARCHIVE"
+}

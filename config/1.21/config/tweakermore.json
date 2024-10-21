@@ -4,7 +4,7 @@
     "autoFillContainerThreshold": 2,
     "containerProcessorHintPos": "top_right",
     "containerProcessorHintScale": 1.0,
-    "fireworkRocketThrottlerCooldown": 1.0,
+    "fireworkRocketThrottlerCooldown": 0.5,
     "infoViewBeamAngle": 40.0,
     "infoViewTargetDistance": 8.0,
     "infoViewScanningPerSecond": 20,
@@ -72,7 +72,7 @@
     "signEditScreenEscDiscard": false,
     "spectatorTeleportMenuIncludeSpectator": false,
     "steveAlexOnlyDefaultSkins": false,
-    "tickFreezeAutoReplaceWithUnfreeze": false,
+    "tickFreezeAutoReplaceWithUnfreeze": true,
     "yeetServerIpReversedDnsLookup": false,
     "windowSizeWidth": 854,
     "windowSizeHeight": 480,
@@ -85,7 +85,7 @@
     "lmRemoveEntityCommandPolicy": "auto",
     "minihudDisableLightOverlaySpawnCheck": false,
     "minihudHideIfChatScreenOpened": false,
-    "mlShulkerBoxPreviewSupportEnderChest": false,
+    "mlShulkerBoxPreviewSupportEnderChest": true,
     "ofRemoveSignTextRenderDistance": false,
     "ofRemoveItemFrameItemRenderDistance": false,
     "ofUnlockF3FpsLimit": false,
@@ -255,7 +255,7 @@
       }
     },
     "fireworkRocketThrottler": {
-      "enabled": false,
+      "enabled": true,
       "hotkey": {
         "keys": ""
       }
@@ -726,8 +726,8 @@
     },
     "configStatistic": {
       "autoCleanContainer": {
-        "lastUsedTime": 1728914632397,
-        "useAmount": 1
+        "lastUsedTime": 1728980991727,
+        "useAmount": 5
       },
       "autoCleanContainerIgnoreEnderChest": {
         "lastUsedTime": 0,
@@ -758,8 +758,8 @@
         "useAmount": 0
       },
       "autoFillContainer": {
-        "lastUsedTime": 1728914631573,
-        "useAmount": 1
+        "lastUsedTime": 1728981024998,
+        "useAmount": 3
       },
       "autoFillContainerIgnoreEnderChest": {
         "lastUsedTime": 0,
@@ -810,12 +810,12 @@
         "useAmount": 0
       },
       "fireworkRocketThrottler": {
-        "lastUsedTime": 0,
-        "useAmount": 0
+        "lastUsedTime": 1729485083076,
+        "useAmount": 1
       },
       "fireworkRocketThrottlerCooldown": {
-        "lastUsedTime": 0,
-        "useAmount": 0
+        "lastUsedTime": 1729485088988,
+        "useAmount": 1
       },
       "infoView": {
         "lastUsedTime": 0,
@@ -1038,8 +1038,8 @@
         "useAmount": 0
       },
       "serverMsptMetricsStatisticType": {
-        "lastUsedTime": 0,
-        "useAmount": 0
+        "lastUsedTime": 1729485051229,
+        "useAmount": 2
       },
       "spectatorTeleportCommand": {
         "lastUsedTime": 0,
@@ -1334,8 +1334,8 @@
         "useAmount": 0
       },
       "tickFreezeAutoReplaceWithUnfreeze": {
-        "lastUsedTime": 0,
-        "useAmount": 0
+        "lastUsedTime": 1729485065005,
+        "useAmount": 1
       },
       "unlimitedBlockEntityRenderDistance": {
         "lastUsedTime": 0,
@@ -1418,8 +1418,8 @@
         "useAmount": 0
       },
       "mlShulkerBoxPreviewSupportEnderChest": {
-        "lastUsedTime": 0,
-        "useAmount": 0
+        "lastUsedTime": 1729485004249,
+        "useAmount": 1
       },
       "ofSantaHat": {
         "lastUsedTime": 0,

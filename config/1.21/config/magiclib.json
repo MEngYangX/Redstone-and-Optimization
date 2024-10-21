@@ -124,7 +124,7 @@
       "config_version": 0
     },
     "config_gui": {
-      "category": "debug",
+      "category": "all",
       "sortingStrategy": "ALPHABET"
     }
   },

@@ -1,6 +1,9 @@
 {
 	"favorites": [
-		"{data:{count:1,id:\"minecraft:tnt\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+		"{data:{count:1,id:\"minecraft:tnt\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{count:1,id:\"minecraft:chest\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{components:{\"minecraft:damage\":151,\"minecraft:enchantments\":{levels:{\"minecraft:efficiency\":4,\"minecraft:fortune\":3,\"minecraft:unbreaking\":3}},\"minecraft:repair_cost\":1},count:1,id:\"minecraft:diamond_shovel\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{count:1,id:\"minecraft:string\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
 	],
 	"hiddenFavorites": [],
 	"displays": []

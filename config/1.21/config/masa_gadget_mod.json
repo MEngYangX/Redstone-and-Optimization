@@ -277,7 +277,7 @@
       "config_version": 0
     },
     "config_gui": {
-      "category": "generic",
+      "category": "all",
       "sortingStrategy": "ALPHABET"
     }
   },

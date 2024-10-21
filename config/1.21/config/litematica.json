@@ -110,10 +110,10 @@
       "keys": "M,PAGE_DOWN"
     },
     "layerNext": {
-      "keys": "PAGE_UP"
+      "keys": "UP"
     },
     "layerPrevious": {
-      "keys": "PAGE_DOWN"
+      "keys": "DOWN"
     },
     "layerSetHere": {
       "keys": ""
